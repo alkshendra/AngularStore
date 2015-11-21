@@ -1,0 +1,1 @@
+var app = Angular.module('AngularStore',[something, something])
